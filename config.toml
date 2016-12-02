@@ -1,0 +1,8 @@
+title = "My New Hugo Site"
+languageCode = "en-us"
+baseurl = "http://localhost:1313/"
+theme="hugo-theme-learn"
+[params]
+  description = "Tesla's Awesome Hugo Site"
+  author = "Nikola Tesla"
+disable404=                 false
